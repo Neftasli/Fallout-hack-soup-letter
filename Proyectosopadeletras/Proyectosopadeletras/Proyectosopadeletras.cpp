@@ -29,7 +29,7 @@ int main()
 			cout << "Attemp" << x << endl;
 			cin >> attemp1;
 			if (attemp1 == "heat" || attemp1 == "car" || attemp1 == "dog") {
-				cout << "You find one!!!!!!\n";
+				cout << "You found one!!!!!!\n";
 				z++;
 				//cout << z << endl;
 			}
@@ -46,10 +46,10 @@ int main()
 		y = 3;
 	} while (y < 3);
 	if (z == 3) {
-		cout << "You have successfuly win!!!\n";
+		cout << "You have successfuly won!!!\n";
 	}
 	else {
-		cout << "You sadly have lost\n";
+		cout << "You sadly lost\n";
 	}
 	return 0;
 } 
