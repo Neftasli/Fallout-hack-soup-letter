@@ -54,4 +54,4 @@ int main()
 	return 0;
 } 
 
-// the one who reads this is a bitch
+// the one who reads this is a bitch, Ambassing Ambatunat omaygat, bitch write won correctly
